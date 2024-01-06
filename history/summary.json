@@ -4,19 +4,19 @@
     "url": "http://ai.sys-all.cn",
     "icon": "https://icons.duckduckgo.com/ip3/ai.sys-all.cn.ico",
     "slug": "chime-server",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 1034,
-    "timeDay": 1034,
-    "timeWeek": 1034,
-    "timeMonth": 1034,
-    "timeYear": 1034,
+    "status": "up",
+    "uptime": "98.15%",
+    "uptimeDay": "98.15%",
+    "uptimeWeek": "98.15%",
+    "uptimeMonth": "98.15%",
+    "uptimeYear": "98.15%",
+    "time": 1198,
+    "timeDay": 1198,
+    "timeWeek": 1198,
+    "timeMonth": 1198,
+    "timeYear": 1198,
     "dailyMinutesDown": {
-      "2024-01-06": 0
+      "2024-01-06": 12
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/at.sys-all.cn.ico",
     "slug": "game-server",
     "status": "down",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
+    "uptime": "0.01%",
+    "uptimeDay": "0.01%",
+    "uptimeWeek": "0.01%",
+    "uptimeMonth": "0.01%",
+    "uptimeYear": "0.01%",
     "time": 1065,
     "timeDay": 1065,
     "timeWeek": 1065,
     "timeMonth": 1065,
     "timeYear": 1065,
     "dailyMinutesDown": {
-      "2024-01-06": 147,
+      "2024-01-06": 160,
       "2024-01-05": 500
     }
   },
@@ -57,7 +57,7 @@
     "timeMonth": 814,
     "timeYear": 814,
     "dailyMinutesDown": {
-      "2024-01-06": 148,
+      "2024-01-06": 160,
       "2024-01-05": 500
     }
   }
