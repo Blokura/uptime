@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/ai.sys-all.cn.ico",
     "slug": "chime-server",
     "status": "up",
-    "uptime": "56.12%",
+    "uptime": "56.22%",
     "uptimeDay": "38.68%",
-    "uptimeWeek": "56.12%",
-    "uptimeMonth": "56.12%",
-    "uptimeYear": "56.12%",
+    "uptimeWeek": "56.22%",
+    "uptimeMonth": "56.22%",
+    "uptimeYear": "56.22%",
     "time": 1157,
     "timeDay": 1280,
     "timeWeek": 1157,
@@ -37,7 +37,7 @@
     "timeMonth": 1065,
     "timeYear": 1065,
     "dailyMinutesDown": {
-      "2024-01-07": 72,
+      "2024-01-07": 77,
       "2024-01-06": 1440,
       "2024-01-05": 500
     }
@@ -59,7 +59,7 @@
     "timeMonth": 814,
     "timeYear": 814,
     "dailyMinutesDown": {
-      "2024-01-07": 72,
+      "2024-01-07": 77,
       "2024-01-06": 1440,
       "2024-01-05": 500
     }
