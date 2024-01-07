@@ -4,19 +4,20 @@
     "url": "http://ai.sys-all.cn",
     "icon": "https://icons.duckduckgo.com/ip3/ai.sys-all.cn.ico",
     "slug": "chime-server",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 1198,
-    "timeDay": 1198,
-    "timeWeek": 1198,
-    "timeMonth": 1198,
-    "timeYear": 1198,
+    "status": "up",
+    "uptime": "56.12%",
+    "uptimeDay": "38.68%",
+    "uptimeWeek": "56.12%",
+    "uptimeMonth": "56.12%",
+    "uptimeYear": "56.12%",
+    "time": 1157,
+    "timeDay": 1280,
+    "timeWeek": 1157,
+    "timeMonth": 1157,
+    "timeYear": 1157,
     "dailyMinutesDown": {
-      "2024-01-06": 0
+      "2024-01-07": 72,
+      "2024-01-06": 811
     }
   },
   {
@@ -31,12 +32,13 @@
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 1065,
-    "timeDay": 1065,
+    "timeDay": 0,
     "timeWeek": 1065,
     "timeMonth": 1065,
     "timeYear": 1065,
     "dailyMinutesDown": {
-      "2024-01-06": 629,
+      "2024-01-07": 72,
+      "2024-01-06": 1440,
       "2024-01-05": 500
     }
   },
@@ -52,12 +54,13 @@
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 814,
-    "timeDay": 814,
+    "timeDay": 0,
     "timeWeek": 814,
     "timeMonth": 814,
     "timeYear": 814,
     "dailyMinutesDown": {
-      "2024-01-06": 629,
+      "2024-01-07": 72,
+      "2024-01-06": 1440,
       "2024-01-05": 500
     }
   }
